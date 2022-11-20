@@ -81,5 +81,5 @@ print("The MISC files are:")
 for i in misc:
     print(i)
 
-# file = drive.CreateFile({'id': '1KIM7h328u2octTE6GV5P_-12cnD6Dp6D'})
+# file = drive.CreateFile({'id': '#Insert ID'})
 # file.GetContentFile('my-awesome-file.txt') 
